@@ -1,4 +1,4 @@
-# ProxyGT
+# ProxyGT (under development)
 Don't sell it, because it's free ! !
 ## Growtopia-Proxy
 Growtopia proxy that allows modification and viewing of packets, and creation of new ones.
