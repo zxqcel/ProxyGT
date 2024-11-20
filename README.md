@@ -2,7 +2,9 @@
 Don't sell it, because it's free ! !
 ## Growtopia-Proxy
 Growtopia proxy that allows modification and viewing of packets, and creation of new ones.
-
+## Applications used
+- Termux : https://f-droid.org/repo/com.termux_118.apk
+- Growtopia localhost : https://nubiza.my.id/growtopia
 ## Supported Platforms
 - Termux Android
 - Linux
