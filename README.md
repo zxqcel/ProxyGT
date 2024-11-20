@@ -22,7 +22,6 @@ $ ./ajex
 TOKEN ADA DI https://zxqcel.my.id/token-proxy
 
 Jika Kalian Memilih AJProxy Ketik:
-```
-./ajex
-```
+`./ajex`
+
 Command di atas berlaku untuk menjalankan Proxy ketika mati atau baru di install
