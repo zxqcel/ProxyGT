@@ -63,7 +63,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "GOSONG" ]; then
+  if [ "$USER_TOKEN" = "\x47\x4f\x53\x4f\x4e\x47" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}AKSES GAGAL${NC}"
