@@ -13,12 +13,14 @@ Growtopia proxy that allows modification and viewing of packets, and creation of
 $ pkg install wget
 $ pkg install bash
 $ wget https://github.com/zxqcel/ProxyGT/raw/main/zxqcel.sh && bash zxqcel.sh
+# MASUKAN TOKEN
+$ 1
+$ 1
+$ x
+$ ./ajex
 ```
 TOKEN ADA DI https://zxqcel.my.id/token-proxy
-```bash
-Pilih Opsi (1/2/3/x)
-Pilih Opsi (1/2/3/x)
-```
+
 Jika Kalian Memilih AJProxy Ketik:
 ```
 ./ajex
