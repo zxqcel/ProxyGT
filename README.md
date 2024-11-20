@@ -20,5 +20,7 @@ Pilih Opsi (1/2/3/x)
 Pilih Opsi (1/2/3/x)
 ```
 Jika Kalian Memilih AJProxy Ketik:
-``./ajex``
+```
+./ajex
+```
 Command di atas berlaku untuk menjalankan Proxy ketika mati atau baru di install
